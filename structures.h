@@ -210,7 +210,7 @@ void KeyExpansionCore(unsigned char * in, unsigned char i) {
 	// RCon
 	in[0] ^= rcon[i];
 }
-
+//hiếu
 /* The main KeyExpansion function
  * Generates additional keys using the original key
  * Total of 11 128-bit keys generated, including the original
