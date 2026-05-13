@@ -191,7 +191,7 @@ int main() {
 		key[i] = c;
 		i++;
 	}
-
+//hiếu
 	unsigned char expandedKey[176];
 
 	KeyExpansion(key, expandedKey);
