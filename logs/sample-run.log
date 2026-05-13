@@ -17,3 +17,4 @@ Read in the 128-bit key from keyfile
 Decrypted message in hex:
 68 65 6c 6c 6f 20 46 49 54 34 30 31 32 20 41 45 53 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
 Decrypted message: hello FIT4012 AES
+//hiếu
