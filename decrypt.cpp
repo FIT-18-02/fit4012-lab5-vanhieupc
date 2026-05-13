@@ -93,7 +93,7 @@ void Round(unsigned char * state, unsigned char * key) {
 	ShiftRows(state);
 	SubBytes(state);
 }
-
+//hiếu
 /* Initial round without InverseMixColumns */
 void InitialRound(unsigned char * state, unsigned char * key) {
 	SubRoundKey(state, key);
